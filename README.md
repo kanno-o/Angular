@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 自分用メモ
+【Node.jsのインストール】
+https://qiita.com/qulylean/items/0ad521885a04a5ebd202
+（Node.js command promptを使う）
+
+【Angular CLIをインストールする】
+npm install -g @angular/cli
+
+ワークスペースと初期アプリケーションを作成する
+ng new my-app
+※何か聞かれるのでEnter押してY/n回答する
+
+アプリケーションを実行する
+cd my-app
+ng serve --open
+
+終わると
+http://localhost:4200/
+でページがでてくる。
+
+AngularPractice
