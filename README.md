@@ -31,6 +31,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://qiita.com/qulylean/items/0ad521885a04a5ebd202
 （Node.js command promptを使う）
 
+npmのインストール
+sudo npm install -g npm
+気になればバージョン確認
+npm -v
+
 【Angular CLIをインストールする】
 npm install -g @angular/cli
 
